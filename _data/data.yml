@@ -15,7 +15,7 @@ sidebar:
     email: lassanakenneh30@gmail.com
     phone: +231886831657
     timezone: GMT+0
-    citizenship:Liberian
+    citizenship: Liberian
     website: 
     linkedin: Lassana Kenneh
     xing: 
@@ -34,12 +34,6 @@ sidebar:
       info:
         - idiom: English
           level: Native
-
-        - idiom: 
-          level: Professional
-
-        - idiom: 
-          level: Professional
 
     interests:
       title: Interests
