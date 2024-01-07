@@ -3,27 +3,27 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Lassana M. Kenneh
-    tagline: Full Stack Developer
+    tagline: Account Analyst
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: lassanakenneh30@gmail.com
+    phone: +231886831657
+    timezone: GMT+0
+    citizenship:Liberian
+    website: 
+    linkedin: Lassana Kenneh
+    xing: 
+    github: lassanakenneh
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,22 +35,22 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
+        - idiom: 
           level: Professional
 
-        - idiom: Spanish
+        - idiom: 
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Reading
           link:
 
-        - item: Snowboarding
+        - item: Football
           link:
 
-        - item: Cooking
+        - item: Mixed martial arts
           link:
 
 career-profile:
